@@ -56,7 +56,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## Usage
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/health-insurance-charges-analysis.git
+git clone https://github.com/vikramnigam/Health-Insurance-Charges-Analysis/blob/main/Medical_Project.ipynb
 cd health-insurance-charges-analysis
 
 ```
